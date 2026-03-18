@@ -1,0 +1,66 @@
+[
+  {
+    "id": "everyday-1",
+    "name": "Everyday Abaya – Classic Flow",
+    "price": 39,
+    "category": "Everyday Abayas",
+    "image": "/images/ba554afb0c2cdba91299e0a2000d7ab7.jpg",
+    "description": "A breathable everyday abaya with a clean silhouette. Made for comfort, movement, and effortless styling from morning to evening."
+  },
+  {
+    "id": "luxury-1",
+    "name": "Luxury Abaya – Satin Night",
+    "price": 79,
+    "category": "Luxury Abayas",
+    "image": "/images/fc6cf8a75b82482ff62243e9e3fafc51.jpg",
+    "description": "A luxe finish with a refined drape. Designed for special occasions while still feeling lightweight and elegant."
+  },
+  {
+    "id": "luxury-2",
+    "name": "Luxury Abaya - satin class",
+    "price": 71,
+    "category": "Luxury Abayas",
+    "image": "/images/luxury 2.jpg",
+    "description": "A luxe finish with a refined drape. Designed for special occasions while still feeling lightweight and elegant."
+  },
+  {
+    "id": "eid-1",
+    "name": "Eid Collection – Pearl Detail",
+    "price": 89,
+    "category": "Eid Collection",
+    "image": "/images/b6a9d67831eec9bdceeb21b9519703bc.jpg",
+    "description": "A festive piece with subtle detailing—celebration-ready while staying true to modest essentials."
+  },
+  {
+    "id": "new-1",
+    "name": "New Arrival – Modern Minimal",
+    "price": 49,
+    "category": "New Arrivals",
+    "image": "/images/d77e1257b3736c6ab9d8dc4e3888ef48.jpg",
+    "description": "A modern cut with timeless appeal. Easy to pair with your daily staples and accessories."
+  },
+  {
+    "id": "8d3a61b9-c5e9-444a-8917-e3bf35e4718e",
+    "name": "Luxury Abayas- Satin Morning",
+    "price": 100,
+    "category": "Luxury Abayas",
+    "image": "/images/luxury 3.jpg",
+    "description": "everything is perfect here"
+  },
+  {
+    "id": "bfdfd85d-a3f9-4201-a919-55aebbe43033",
+    "name": "Luxury Abayas- Satin afternoon",
+    "price": 90,
+    "category": "Luxury Abayas",
+    "image": "/images/luxury 4.jpg",
+    "description": "everything is perfect here"
+  },
+  {
+    "id": "4335ba61-ad3e-4602-a0fa-630722eca123",
+    "name": "Luxury Abaya - satin mis",
+    "price": 80,
+    "category": "Luxury Abayas",
+    "image": "/images/luxury 4.jpg",
+    "description": "nothing new"
+  }
+]
